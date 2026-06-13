@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Palanivel</h1>
+        <p>CSE Student | Aspiring Web Developer</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am a Computer Science student passionate about web development
+            and learning new technologies.
+        </p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>AI Crop Yield Prediction</h3>
+            <p>
+                A project that predicts crop yield using AI techniques.
+            </p>
+        </div>
+
+        <div class="project">
+            <h3>Productivity Tracker</h3>
+            <p>
+                A simple application to track daily productivity.
+            </p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: yourmail@example.com</p>
+        <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    </section>
+
+    <footer>
+        <p>© 2026 dharani</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>dharani </h1>
+        <p>CSE Student | Aspiring Web Developer</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am a Computer Science student passionate about web development
+            and learning new technologies.
+        </p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>AI Crop Yield Prediction</h3>
+            <p>
+                A project that predicts crop yield using AI techniques.
+            </p>
+        </div>
+
+        <div class="project">
+            <h3>Productivity Tracker</h3>
+            <p>
+                A simple application to track daily productivity.
+            </p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: yourmail@example.com</p>
+        <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    </section>
+
+    <footer>
+        <p>© 2026 dharani </p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
